@@ -1,7 +1,3 @@
-Here’s a clear and concise README template for your speech recognition and translation project. You can copy and modify it as needed:
-
----
-
 # Speech Recognition & Translation App
 
 This project is a desktop application that allows you to:
@@ -29,7 +25,7 @@ The app features a user-friendly interface built with Tkinter.
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/yourusername/speech_translation.git
+   git clone https://github.com/abhisar28/speech_translation.git
    cd speech_translation
    ```
 
@@ -66,7 +62,3 @@ The app features a user-friendly interface built with Tkinter.
 ## License
 
 This project is for educational purposes.
-
----
-
-Let me know if you want to add or change anything, or if you want a version tailored for a specific set of libraries (e.g., Google, Vosk, etc.)!
