@@ -1,0 +1,6 @@
+python-dotenv
+azure-cognitiveservices-speech
+azure-ai-translation-text
+azure-core
+langdetect
+pyttsx3 
